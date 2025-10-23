@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Shrey Krishnatray!</h1>
-<h3 align="center">Computer Science and Applied Mathematics Undergraduate</h3>
+<h1 align="left">Hi, I'm Shrey Krishnatray!</h1>
+<h3 align="left">Computer Science and Applied Mathematics Undergraduate</h3>
 
 ---
 
-### 🌟 About Me
+`I'm intrigued by the intersection of intelligence, data, and design, where machine learning meets full-stack development to shape real-world solutions.`
 
-I’m intrigued by the intersection of intelligence, data, and design, where machine learning meets full-stack development to shape real-world solutions.
+`🌱 Learning and experimenting with Generative AI to build intelligent and practical solutions.`
 
-🌱 Learning and experimenting with Generative AI to build intelligent and practical solutions.
+👯 `Interested in collaborating on AI/ML projects that make a meaningful impact.`
 
-👯 Interested in collaborating on AI/ML projects that make a meaningful impact.
-
-📫 Feel free to reach out: [shreykrishnatray28@gmail.com]
+`📫 Feel free to reach out: [shreykrishnatray28@gmail.com]`
 
 
 ---
@@ -28,6 +26,7 @@ I’m intrigued by the intersection of intelligence, data, and design, where mac
 #### 📝 Languages:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -40,7 +39,6 @@ I’m intrigued by the intersection of intelligence, data, and design, where mac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
 <img src="https://camo.githubusercontent.com/d1add74e4e24c0cf4c93483c28654a75a088782e6e4df8a55a1f79bdd2894f36/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7363696b69746c6561726e2f7363696b69746c6561726e2d6f726967696e616c2e737667" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
@@ -62,5 +60,7 @@ I’m intrigued by the intersection of intelligence, data, and design, where mac
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=radical)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=radical)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=radical)
