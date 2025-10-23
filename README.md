@@ -7,7 +7,7 @@
 
 🌱 *Learning and experimenting with **Generative AI** to build intelligent and practical solutions.*
 
-👯 *Interested in collaborating on AI/ML projects that make a **meaningful impact**.*
+👯 *Interested in collaborating on **AI/ML projects** that make a **meaningful impact**.*
 
 📫 *Feel free to reach out:*  shreykrishnatray28@gmail.com
 
@@ -26,6 +26,7 @@
 
 #### 📝 Languages :
 
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 
@@ -42,6 +43,7 @@
 
 #### 🛠️ Libraries & Frameworks :
 
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 
@@ -57,6 +59,7 @@
 </p>
 
 #### 🖥️ Tools & Platforms :
+
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
