@@ -1,13 +1,13 @@
-<h1 align="left">Hi, I'm Shrey Krishnatray!</h1>
-<h3 align="left">Computer Science and Applied Mathematics Undergraduate</h3>
+<h2 align="left">Hi, I'm Shrey Krishnatray!</h2>
+<h4 align="left">Computer Science and Applied Mathematics Undergraduate</h4>
 
 ---
 
-*I'm intrigued by the intersection of intelligence, data, and design, where machine learning meets full-stack development to shape real-world solutions.*
+*I'm intrigued by the intersection of **intelligence, data, and design, where machine learning meets full-stack development** to shape real-world solutions.*
 
-🌱 *Learning and experimenting with Generative AI to build intelligent and practical solutions.*
+🌱 *Learning and experimenting with **Generative AI** to build intelligent and practical solutions.*
 
-👯 *Interested in collaborating on AI/ML projects that make a meaningful impact.*
+👯 *Interested in collaborating on AI/ML projects that make a **meaningful impact**.*
 
 📫 *Feel free to reach out:*  shreykrishnatray28@gmail.com
 
@@ -24,7 +24,8 @@
 ### 💻 Currently Working With -
 
 
-#### 📝 Languages:
+#### 📝 Languages :
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 
@@ -39,7 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
-#### 🛠️ Libraries & Frameworks:
+#### 🛠️ Libraries & Frameworks :
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 
@@ -54,7 +56,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
 
-#### 🖥️ Tools & Platforms:
+#### 🖥️ Tools & Platforms :
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 
