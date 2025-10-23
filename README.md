@@ -71,17 +71,11 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&theme=radical&hide=grade)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=radical)
-
 <div align="center">
 
 ### 📊 My GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=radical)
 
 <table>
   <tr>
