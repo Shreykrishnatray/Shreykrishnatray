@@ -16,12 +16,13 @@
 
 ### 🔗 Connect with me:
 <p align="center">
-<a href="https://www.linkedin.com/in/shreykrishnatray/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" /></a>
+<a href="https://www.linkedin.com/in/shrey-krishnatray-3395ba273/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" /></a>
 
 
 ---
 
 ### 💻 Currently Working With -
+
 
 #### 📝 Languages:
 <p align="center">
@@ -77,4 +78,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=radical)
+
+<div align="center">
+
+### 📊 My GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=radical&hide_rank=true&hide_title=false" alt="GitHub Stats" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=radical&hide_title=false" alt="Top Languages" height="165"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
