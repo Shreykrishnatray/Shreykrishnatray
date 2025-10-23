@@ -9,14 +9,14 @@
 
 👯 *Interested in collaborating on AI/ML projects that make a meaningful impact.*
 
-📫 *Feel free to reach out:* shreykrishnatray28@gmail.com
+📫 *Feel free to reach out:*  shreykrishnatray28@gmail.com
 
 
 ---
 
 ### 🔗 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/[your-linkedin]/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/shreykrishnatray/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" /></a>
 
 
 ---
@@ -65,13 +65,16 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Shreykrishnatray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&theme=radical)
+### 📊 My GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&theme=radical&hide=rank,contribs,grade)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=radical)
+
