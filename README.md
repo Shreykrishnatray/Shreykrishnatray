@@ -105,7 +105,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 
 <img height="170" src="https://shrey-github-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Shreykrishnatray&theme=tokyonight&hide_border=true"/>
 
 </div>
 
