@@ -103,7 +103,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://shrey-github-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreykrishnatray&theme=tokyonight&hide_border=true"/>
 
@@ -111,7 +111,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://shrey-github-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
