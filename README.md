@@ -144,7 +144,7 @@ I enjoy building practical software, but I'm even more interested in understandi
 ---
 # 🚀 Featured Projects
 
-### 🛡️ ZeroTrust AI
+### ZeroTrust AI
 
 > **AI-powered identity document verification platform** that combines OCR, image forensics, and deep learning to detect manipulated documents and produce an explainable fraud score.
 
@@ -158,7 +158,7 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ---
 
-### 🧠 SynapSense
+### SynapSense
 
 > **AI-powered goal-to-action platform** that automatically transforms ideas into actionable project plans with task decomposition, dependency mapping, and interactive visual timelines.
 
@@ -172,7 +172,7 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ---
 
-### 🌍 Odyssey
+### Odyssey
 
 > **Full-stack travel platform** that simplifies trip discovery through curated experiences, intelligent search, and a seamless booking-ready interface.
 
@@ -187,7 +187,7 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ---
 
-### 🌾 Fasal Maitri
+### Fasal Maitri
 
 > **AI-powered conversational agriculture platform** that enables farmers to access contextual farming advice over phone calls using speech recognition, LLM reasoning, and multilingual voice synthesis.
 
