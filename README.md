@@ -18,7 +18,6 @@ I enjoy building practical software, but I'm even more interested in understandi
 - Computer Science & Applied Mathematics undergraduate
 - Building AI-powered applications and full-stack systems
 - Exploring LLMs, RAG, and AI Research Engineering
-- Building Odyssey through Orbit
 - ML Cell Lead, mentoring students and leading AI-focused projects
 - Learning System Design, Next.js, Spring Boot, and scalable AI systems
 - Open to AI Software Engineering & Research Engineering internships
@@ -145,60 +144,60 @@ I enjoy building practical software, but I'm even more interested in understandi
 ---
 # 🚀 Featured Projects
 
-### 🛡️ ZeroTrust AI (AI + Security + Deep Learning)
+### 🛡️ ZeroTrust AI
 
-> **AI-powered document verification system** that analyzes uploaded files and estimates the likelihood of tampering or forgery.
->
-> **Tech Stack:** Python • Deep Learning • CNN • Blockchain • FastAPI
->
-> 🌟 **Highlights**
-> - Image & PDF verification
-> - Multi-layer authenticity analysis
-> - Deep learning-based document inspection
-> - Blockchain-backed verification pipeline
+> **AI-powered identity document verification platform** that combines OCR, image forensics, and deep learning to detect manipulated documents and produce an explainable fraud score.
 
----
+> **Tech Stack:** Python • FastAPI • PyTorch • EfficientNet-B0 • EasyOCR • OpenCV • React • Tailwind CSS
 
-### 🧠 SynapSense (AI Planning Assistant)
-
-> **AI-powered planning assistant** that transforms vague ideas into structured, actionable plans.
->
-> **Tech Stack:** React • FastAPI • React Flow • AI • Frappe Gantt
->
-> 🌟 **Highlights**
-> - Convert ideas into structured workflows
-> - Interactive visual planning
-> - AI-assisted task breakdown
-> - Timeline & project planning
+🌟 **Highlights**
+- Explainable fraud score with authenticity prediction
+- OCR + Computer Vision + Deep Learning pipeline
+- Image forensic analysis for tampering detection
+- SHA-256 document fingerprint generation
 
 ---
 
-### 🌍 Odyssey (Full Stack + AI Product)
+### 🧠 SynapSense
 
-> **AI-powered travel platform** focused on delivering modern and personalized travel experiences.
->
+> **AI-powered goal-to-action platform** that automatically transforms ideas into actionable project plans with task decomposition, dependency mapping, and interactive visual timelines.
+
+> **Tech Stack:** React • FastAPI • MongoDB • OpenAI API • React Flow • Frappe Gantt
+
+🌟 **Highlights**
+- Natural language → structured project plans
+- AI-powered task decomposition & milestone generation
+- Interactive workflow and Gantt chart visualization
+- Automated dependency mapping & timeline planning
+
+---
+
+### 🌍 Odyssey
+
+> **Full-stack travel platform** that simplifies trip discovery through curated experiences, intelligent search, and a seamless booking-ready interface.
+
 > **Tech Stack:** Next.js • Spring Boot • PostgreSQL • Tailwind CSS
->
-> 🌟 **Highlights**
-> - AI-powered travel recommendations
-> - Smart search & trip discovery
-> - Secure authentication
-> - Responsive modern UI
+
+🌟 **Highlights**
+- Curated destinations & travel experiences
+- Intelligent search & personalized discovery
+- Scalable full-stack architecture
+- Modern, responsive UI/UX
 
 
 ---
 
-### 🤖 Fasal Maitri (Multilingual Voice AI)
+### 🌾 Fasal Maitri
 
-> **Multilingual AI voice assistant** designed to help farmers through natural conversations.
->
-> **Tech Stack:** Python • FastAPI • LLM • Speech-to-Text • Text-to-Speech
->
-> 🌟 **Highlights**
-> - Voice-based interaction
-> - Multilingual support
-> - LLM-powered responses
-> - Agriculture-focused assistance
+> **AI-powered conversational agriculture platform** that enables farmers to access contextual farming advice over phone calls using speech recognition, LLM reasoning, and multilingual voice synthesis.
+
+> **Tech Stack:** FastAPI • Twilio • BharatGenAI Param-1-2.9B • Vakyansh STT/TTS • Python
+
+🌟 **Highlights**
+- Telephony-integrated conversational AI pipeline
+- Context-aware multilingual agricultural assistance
+- STT → LLM → TTS architecture with fallback mechanisms
+- Accessible without smartphones or internet
 
 ---
 
@@ -231,26 +230,28 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 # 📌 Featured Repositories
 
+<h2 align="center">⭐ Featured Projects</h2>
+
 <p align="center">
 
 <a href="https://github.com/Shreykrishnatray/ZeroTrust-AI">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=ZeroTrust-AI&theme=tokyonight&hide_border=true" />
+  <img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=ZeroTrust-AI&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
 </a>
 
 <a href="https://github.com/Shreykrishnatray/SynapSense">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=SynapSense&theme=tokyonight&hide_border=true" />
+  <img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=SynapSense&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
 </a>
 
 <a href="https://github.com/Shreykrishnatray/orbit-odyssey">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=orbit-odyssey&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=orbit-odyssey&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
 </a>
 
 <a href="https://github.com/Shreykrishnatray/Fasal_Maitri">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=Fasal_Maitri&theme=tokyonight&hide_border=true" />
+  <img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=Fasal_Maitri&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
 </a>
 
 <a href="https://github.com/Shreykrishnatray/DSA-Java">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=DSA-Java&theme=tokyonight&hide_border=true" />
+  <img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=DSA-Java&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
 </a>
 
 </p>
@@ -279,8 +280,8 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 <p align="center">
 
-<a href="mailto:shreykrishnatray28@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreykrishnatray28@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shrey-krishnatray-3395ba273/">
