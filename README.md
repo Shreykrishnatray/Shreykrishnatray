@@ -17,34 +17,12 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 ## 🚀 About Me
 
 - 🎓 Computer Science & Applied Mathematics Undergraduate
-- 💡 Passionate about Artificial Intelligence, Full-Stack Development, and building impactful software.
+- 💡 Building AI-powered applications with a focus on Generative AI, Full Stack Development and scalable software systems.
 - 🚀 Currently building **Odyssey** — a modern travel platform.
 - 💻 Solving **Data Structures & Algorithms** in Java and strengthening problem-solving skills.
 - 🤖 Exploring **Machine Learning**, **Deep Learning**, **Generative AI**, and **LLMs**.
 - 🌱 Currently learning **Next.js**, **Spring Boot**, **FastAPI**, and **System Design**.
 - 🎯 Open to **AI / Full Stack Software Engineering Internship** opportunities.
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shrey-krishnatray-3395ba273/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<p align = "center">
-<a href="mailto:shreykrishnatray28@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
-<p align="center">
-<b>Email:</b> shreykrishnatray28@gmail.com
-</p>
 
 ---
 
@@ -104,15 +82,15 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 
 <div align="center">
 
-<img height="170" src="https://shrey-github-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://shrey-github-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Shreykrishnatray&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Shreykrishnatray&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://shrey-github-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="175" src="https://shrey-github-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -121,7 +99,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-self-hosted-2.vercel.app/?username=Shreykrishnatray" />
+<img width="100%" src="https://github-profile-trophy-self-hosted-2.vercel.app/?username=Shreykrishnatray"/>
 </p>
 
 ---
@@ -217,27 +195,17 @@ Currently building exciting AI and Full Stack projects.
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/shreykrishnatray/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/shreykrishnatray?csrf_token=458c4ac12ba2c17c91092225bddc5605">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -260,4 +228,8 @@ Currently building exciting AI and Full Stack projects.
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shreykrishnatray&style=for-the-badge&color=blue"/>
+</p>
 
