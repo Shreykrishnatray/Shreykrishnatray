@@ -1,30 +1,38 @@
 <div align="center">
 
-# Hi 👋, I'm Shrey Krishnatray
+# Shrey Krishnatray
 
-### AI Engineer • Full Stack Developer • Java DSA Enthusiast
+### AI Engineer | Full Stack Dev | Research Engineering Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Applied+Mathematics+Student;Building+AI-Powered+Applications;Full+Stack+Developer;Java+DSA+Learner;Always+Learning+Something+New+🚀" />
 
 <br>
 
-Building intelligent applications that combine **Artificial Intelligence**, **Full-Stack Development**, and **Problem Solving** to create meaningful real-world solutions.
+I enjoy building practical software, but I'm even more interested in understanding the ideas that make it work. I often find myself asking "why" before "how", and I enjoy breaking complex systems into smaller pieces until they finally make sense. Recently, I've started exploring research engineering by reading papers, implementing concepts from scratch, and building AI projects that help me understand not just how to use models, but how they're designed, trained, evaluated, and deployed in real-world systems.
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Computer Science & Applied Mathematics Undergraduate
-- 💡 Building AI-powered applications with a focus on Generative AI, Full Stack Development and scalable software systems.
-- 🚀 Currently building **Odyssey** — a modern travel platform.
-- 💻 Solving **Data Structures & Algorithms** in Java and strengthening problem-solving skills.
-- 🤖 Exploring **Machine Learning**, **Deep Learning**, **Generative AI**, and **LLMs**.
-- 🌱 Currently learning **Next.js**, **Spring Boot**, **FastAPI**, and **System Design**.
-- 🎯 Open to **AI / Full Stack Software Engineering Internship** opportunities.
-
+- Computer Science & Applied Mathematics Undergraduate.
+- Passionate about building AI systems that solve real-world problems.
+- Exploring Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and AI Research Engineering.
+- Strong foundation in Data Structures & Algorithms with 200+ LeetCode problems solved.
+- Currently building Odyssey, an AI-powered travel platform through Orbit.
+- ML Cell Lead, mentoring students and leading AI-focused projects.
+- Currently learning System Design, Next.js, Spring Boot, and scalable AI architectures.
+- Looking for AI Software Engineering and Research Engineering internship opportunities.
 ---
+
+## 🚀 Currently Working On
+
+- 🌍 Odyssey – AI-powered travel platform
+- 📚 Research Engineering Journey
+- 🧠 Building an end-to-end RAG system for personal knowledge management
+- 📄 Reading and implementing modern AI research papers
+- 💻 Solving DSA consistently
+
 
 ## 🛠️ Tech Stack
 
