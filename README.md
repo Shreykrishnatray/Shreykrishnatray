@@ -2,9 +2,9 @@
 
 # Shrey Krishnatray
 
-### AI Engineer | Full Stack Dev | Research Engineering Enthusiast
+### AI & Full Stack Developer | Research Engineering Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Applied+Mathematics+Student;Building+AI-Powered+Applications;Full+Stack+Developer;Java+DSA+Learner;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Asking+%22Why%3F%22+Before+%22How%3F%22;Learning+by+Building+from+Scratch;Curious+About+What+Happens+Under+the+Hood" />
 
 <br>
 
@@ -15,24 +15,33 @@ I enjoy building practical software, but I'm even more interested in understandi
 ---
 
 ## 🚀 About Me
-- Computer Science & Applied Mathematics Undergraduate.
-- Passionate about building AI systems that solve real-world problems.
-- Exploring Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and AI Research Engineering.
-- Strong foundation in Data Structures & Algorithms with 200+ LeetCode problems solved.
-- Currently building Odyssey, an AI-powered travel platform through Orbit.
-- ML Cell Lead, mentoring students and leading AI-focused projects.
-- Currently learning System Design, Next.js, Spring Boot, and scalable AI architectures.
-- Looking for AI Software Engineering and Research Engineering internship opportunities.
+- Computer Science & Applied Mathematics undergraduate
+- Building AI-powered applications and full-stack systems
+- Exploring LLMs, RAG, and AI Research Engineering
+- Building Odyssey through Orbit
+- ML Cell Lead, mentoring students and leading AI-focused projects
+- Learning System Design, Next.js, Spring Boot, and scalable AI systems
+- Open to AI Software Engineering & Research Engineering internships
+
+---
+## 🔬 Research Interests
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- NLP
+- Efficient Inference
+- Model Evaluation
+- AI Systems
+  
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently Building
 
-- 🌍 Odyssey – AI-powered travel platform
-- 📚 Research Engineering Journey
-- 🧠 Building an end-to-end RAG system for personal knowledge management
+- 🧠 End-to-end RAG system for personal knowledge management
+- 🌍 Odyssey — AI-powered travel platform
 - 📄 Reading and implementing modern AI research papers
-- 💻 Solving DSA consistently
-
+- 💻 Consistently solving DSA
 
 ## 🛠️ Tech Stack
 
@@ -60,16 +69,24 @@ I enjoy building practical software, but I'm even more interested in understandi
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI Engineering
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge"/>
+
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -124,81 +141,118 @@ I enjoy building practical software, but I'm even more interested in understandi
 </p>
 
 ---
+# 🚀 Featured Projects
 
-# ⭐ Featured Projects
+### 🛡️ ZeroTrust AI (AI + Security + Deep Learning)
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🚀 Odyssey
-
-A modern AI-powered travel platform focused on delivering beautiful travel experiences through an intuitive and scalable web application.
-
-**Tech Stack**
-
-Next.js • Spring Boot • PostgreSQL • Tailwind CSS
-
-**Highlights**
-
-- 🌍 Travel Packages
-- 🔍 Smart Search
-- 🔐 Authentication
-- 📱 Responsive UI
-
-</td>
-
-<td width="50%">
-
-## 💻 DSA Java
-
-A structured collection of Data Structures & Algorithms solutions in Java with clean code and topic-wise organization.
-
-**Highlights**
-
-- 📚 Topic-wise Questions
-- ✅ Easy to Understand Code
-- 📖 Interview Preparation
-- 🚀 Continuous Updates
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Farmer Assistant
-
-An AI-powered multilingual voice assistant built to help farmers through natural conversations.
-
-**Highlights**
-
-- 🎙 Speech-to-Text
-- 🧠 LLM Integration
-- 🔊 Text-to-Speech
-- 🌾 Agriculture Assistance
-
-</td>
-
-<td width="50%">
-
-## 🚧 More Projects Coming Soon
-
-Currently building exciting AI and Full Stack projects.
-
-⭐ Stay tuned!
-
-</td>
-
-</tr>
-
-</table>
+> **AI-powered document verification system** that analyzes uploaded files and estimates the likelihood of tampering or forgery.
+>
+> **Tech Stack:** Python • Deep Learning • CNN • Blockchain • FastAPI
+>
+> 🌟 **Highlights**
+> - Image & PDF verification
+> - Multi-layer authenticity analysis
+> - Deep learning-based document inspection
+> - Blockchain-backed verification pipeline
 
 ---
+
+### 🧠 SynapSense (AI Planning Assistant)
+
+> **AI-powered planning assistant** that transforms vague ideas into structured, actionable plans.
+>
+> **Tech Stack:** React • FastAPI • React Flow • AI • Frappe Gantt
+>
+> 🌟 **Highlights**
+> - Convert ideas into structured workflows
+> - Interactive visual planning
+> - AI-assisted task breakdown
+> - Timeline & project planning
+
+---
+
+### 🌍 Odyssey (Full Stack + AI Product)
+
+> **AI-powered travel platform** focused on delivering modern and personalized travel experiences.
+>
+> **Tech Stack:** Next.js • Spring Boot • PostgreSQL • Tailwind CSS
+>
+> 🌟 **Highlights**
+> - AI-powered travel recommendations
+> - Smart search & trip discovery
+> - Secure authentication
+> - Responsive modern UI
+
+
+---
+
+### 🤖 Fasal Maitri (Multilingual Voice AI)
+
+> **Multilingual AI voice assistant** designed to help farmers through natural conversations.
+>
+> **Tech Stack:** Python • FastAPI • LLM • Speech-to-Text • Text-to-Speech
+>
+> 🌟 **Highlights**
+> - Voice-based interaction
+> - Multilingual support
+> - LLM-powered responses
+> - Agriculture-focused assistance
+
+---
+
+### 💻 DSA Java (Problem Solving & Fundamentals)
+
+> **Structured collection of Data Structures & Algorithms solutions** with clean Java implementations and topic-wise organization.
+>
+> **Tech Stack:** Java
+>
+> 🌟 **Highlights**
+> - Topic-wise solutions
+> - Clean & readable code
+> - Interview preparation
+> - Continuous updates
+
+---
+
+### 📚 Research Implementations *(In Progress)*
+
+> Recreating ideas from influential AI research papers to better understand the design, training, and evaluation of modern AI systems.
+
+🌟 **Planned Topics**
+- Attention mechanisms
+- Transformer architectures
+- LoRA & PEFT
+- Retrieval-Augmented Generation
+- Agentic AI workflows
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/Shreykrishnatray/ZeroTrust-AI">
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=ZeroTrust-AI&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shreykrishnatray/SynapSense">
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=SynapSense&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shreykrishnatray/orbit-odyssey">
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=orbit-odyssey&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shreykrishnatray/Fasal_Maitri">
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=Fasal_Maitri&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shreykrishnatray/DSA-Java">
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=DSA-Java&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -238,8 +292,6 @@ Currently building exciting AI and Full Stack projects.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreykrishnatray&style=for-the-badge&color=blue" />
 </p>
-
-⭐ Thanks for visiting my profile! ⭐
 
 </h3>
 
