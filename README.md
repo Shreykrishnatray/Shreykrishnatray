@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Asking+%22Why%3F%22+Before+%22How%3F%22;Learning+by+Building+from+Scratch;Curious+About+What+Happens+Under+the+Hood" />
 
 <br>
+---
 
 I enjoy building practical software, but I'm even more interested in understanding the ideas that make it work. I often find myself asking "why" before "how", and I enjoy breaking complex systems into smaller pieces until they finally make sense. Recently, I've started exploring research engineering by reading papers, implementing concepts from scratch, and building AI projects that help me understand not just how to use models, but how they're designed, trained, evaluated, and deployed in real-world systems.
 
