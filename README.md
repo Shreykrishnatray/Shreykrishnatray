@@ -225,11 +225,12 @@ Currently building exciting AI and Full Stack projects.
 
 <h3 align="center">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreykrishnatray&style=for-the-badge&color=blue" />
+</p>
+
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shreykrishnatray&style=for-the-badge&color=blue"/>
-</p>
 
