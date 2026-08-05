@@ -35,6 +35,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 
 &nbsp;&nbsp;
 
+<p align = "center">
 <a href="mailto:shreykrishnatray28@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
@@ -120,7 +121,7 @@ Building intelligent applications that combine **Artificial Intelligence**, **Fu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shreykrishnatray&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy-self-hosted-2.vercel.app/?username=Shreykrishnatray" />
 </p>
 
 ---
