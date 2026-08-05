@@ -199,13 +199,15 @@ Currently building exciting AI and Full Stack projects.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/shreykrishnatray?csrf_token=458c4ac12ba2c17c91092225bddc5605">
+<a href="https://codeforces.com/profile/shreykrishnatray">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
