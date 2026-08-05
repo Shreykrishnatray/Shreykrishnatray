@@ -242,7 +242,7 @@ I enjoy building practical software, but I'm even more interested in understandi
 </a>
 
 <a href="https://github.com/Shreykrishnatray/orbit-odyssey">
-<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=orbit-odyssey&theme=tokyonight&hide_border=true" />
+<img src="https://shrey-github-stats.vercel.app/api/pin/?username=Shreykrishnatray&repo=orbit-odyssey&theme=tokyonight&hide_border=true&v=2" />
 </a>
 
 <a href="https://github.com/Shreykrishnatray/Fasal_Maitri">
