@@ -9,6 +9,7 @@
 ---
 
 I enjoy building practical software, but I'm even more interested in understanding the ideas that make it work. I often find myself asking "why" before "how", and I enjoy breaking complex systems into smaller pieces until they finally make sense. Recently, I've started exploring research engineering by reading papers, implementing concepts from scratch, and building AI projects that help me understand not just how to use models, but how they're designed, trained, evaluated, and deployed in real-world systems.
+> Every project I build is another step toward understanding what's happening under the hood.
 
 </div>
 
