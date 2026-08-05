@@ -38,10 +38,12 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ## 🚀 Currently Building
 
-- 🧠 End-to-end RAG system for personal knowledge management
-- 🌍 Odyssey — AI-powered travel platform
-- 📄 Reading and implementing modern AI research papers
-- 💻 Consistently solving DSA
+- End-to-end RAG system for personal knowledge management
+- Odyssey — AI-powered travel platform
+- Reading and implementing modern AI research papers
+- Consistently solving DSA
+  
+---
 
 ## 🛠️ Tech Stack
 
