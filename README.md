@@ -17,8 +17,8 @@ I enjoy building practical software, but I'm even more interested in understandi
 ## 🚀 About Me
 - Computer Science & Applied Mathematics undergraduate
 - Building AI-powered applications and full-stack systems
-- Exploring LLMs, RAG, and AI Research Engineering
 - ML Cell Lead, mentoring students and leading AI-focused projects
+- Exploring LLMs, RAG, and AI Research Engineering
 - Learning System Design, Next.js, Spring Boot, and scalable AI systems
 - Open to AI Software Engineering & Research Engineering internships
 
@@ -32,15 +32,6 @@ I enjoy building practical software, but I'm even more interested in understandi
 - Efficient Inference
 - Model Evaluation
 - AI Systems
-  
----
-
-## 🚀 Currently Building
-
-- End-to-end RAG system for personal knowledge management
-- Odyssey — AI-powered travel platform
-- Reading and implementing modern AI research papers
-- Consistently solving DSA
   
 ---
 
@@ -216,16 +207,17 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ---
 
-### 📚 Research Implementations *(In Progress)*
+## 📚 Currently Learning & Building
 
-> Recreating ideas from influential AI research papers to better understand the design, training, and evaluation of modern AI systems.
+I learn by building projects and implementing concepts from influential AI research papers to better understand how modern AI systems are designed and deployed.
 
-🌟 **Planned Topics**
-- Attention mechanisms
+**Current Focus**
+- End-to-end RAG systems for personal knowledge management
+- Reading and implementing modern AI research papers
 - Transformer architectures
 - LoRA & PEFT
-- Retrieval-Augmented Generation
-- Agentic AI workflows
+- AI agent workflows
+- Consistently solving DSA
 
 ---
 
