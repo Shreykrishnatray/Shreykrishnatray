@@ -174,15 +174,16 @@ I enjoy building practical software, but I'm even more interested in understandi
 
 ### Odyssey
 
-> **Full-stack travel platform** that simplifies trip discovery through curated experiences, intelligent search, and a seamless booking-ready interface.
+> **Modern travel discovery platform** built with Next.js, focused on premium UI/UX, responsive design, dynamic destination exploration, and scalable frontend architecture.
 
-> **Tech Stack:** Next.js • Spring Boot • PostgreSQL • Tailwind CSS
+> **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion • shadcn/ui
 
 🌟 **Highlights**
-- Curated destinations & travel experiences
-- Intelligent search & personalized discovery
-- Scalable full-stack architecture
-- Modern, responsive UI/UX
+- Premium responsive travel interface
+- Destination search and exploration
+- Dynamic destination pages
+- Smooth animations and modern UI
+- SEO-friendly architecture
 
 
 ---
