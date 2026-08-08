@@ -13,6 +13,7 @@
 ---
 <div align="center">
 <p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -104,7 +105,7 @@
 
 ---
 
-### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java)
+### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java)*(Newly Created)*
 
 > **Structured collection of Data Structures & Algorithms solutions** with clean Java implementations and topic-wise organization.
 
@@ -113,7 +114,6 @@
 - Topic-wise solutions
 - Clean and readable implementations
 - Interview-focused problem solving
-- Continuously expanding
 
 ---
 
@@ -122,10 +122,10 @@
 I learn by building and by going deeper into the ideas behind the systems I use.
 
 - End-to-end RAG systems
-- Modern AI research papers
 - Transformer architectures
 - LoRA & PEFT
 - AI agent workflows
+- Modern AI research papers
 - Consistently solving DSA
 
 ---
