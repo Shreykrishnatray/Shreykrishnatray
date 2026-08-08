@@ -105,18 +105,6 @@
 
 ---
 
-### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java) *(Newly Created)*
-
-> **Structured collection of Data Structures & Algorithms solutions** with clean Java implementations and topic-wise organization.
-
-**Tech Stack:** Java
-
-- Topic-wise solutions
-- Clean and readable implementations
-- Interview-focused problem solving
-
----
-
 ## 📚 Currently Learning & Building:
 
 I learn by building and by going deeper into the ideas behind the systems I use.
