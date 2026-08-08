@@ -4,34 +4,11 @@
 
 ### AI & Full Stack Developer | Research Engineering Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Asking+%22Why%3F%22+Before+%22How%3F%22;Learning+by+Building+from+Scratch;Curious+About+What+Happens+Under+the+Hood" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Asking+%22Why%3F%22+Before+%22How%3F%22;Learning+by+Building+from+Scratch" />
 
 ---
 
-I enjoy building practical software, but I'm even more interested in understanding the ideas that make it work. I often find myself asking "why" before "how", and I enjoy breaking complex systems into smaller pieces until they finally make sense. Recently, I've started exploring research engineering by reading papers, implementing concepts from scratch, and building AI projects that help me understand not just how to use models, but how they're designed, trained, evaluated, and deployed in real-world systems.
-
-</div>
-
----
-
-## 🚀 About Me
-- Computer Science & Applied Mathematics undergraduate
-- Building AI-powered applications and full-stack systems
-- ML Cell Lead, mentoring students and leading AI-focused projects
-- Exploring LLMs, RAG, and AI Research Engineering
-- Learning System Design, Next.js, Spring Boot, and scalable AI systems
-- Open to AI Software Engineering & Research Engineering internships
-
----
-## 🔬 Research Interests
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- NLP
-- Efficient Inference
-- Model Evaluation
-- AI Systems
+> I enjoy building things, but I’ve always been more interested in understanding what’s happening underneath them. I tend to get stuck on the “why” behind something long after the “how” is already clear, and I like breaking complicated ideas down until they stop feeling complicated. A lot of my learning happens this way—build something, run into something I don’t understand, dig deeper, and eventually have that little “oh, so that’s what’s going on” moment. Sometimes that means writing code, sometimes reading a paper, and sometimes rebuilding an idea just to see if I can make sense of it myself. I like taking things from 0 to 1, turning rough ideas into working systems, and learning from the parts that don’t work the first time. I’m still figuring out how far this curiosity will take me, but for now, I’m enjoying the process of building, breaking, understanding, and starting again.
   
 ---
 
