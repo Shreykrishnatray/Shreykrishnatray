@@ -105,7 +105,7 @@
 
 ---
 
-### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java)*(Newly Created)*
+### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java) *(Newly Created)*
 
 > **Structured collection of Data Structures & Algorithms solutions** with clean Java implementations and topic-wise organization.
 
