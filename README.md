@@ -4,11 +4,7 @@
 
 ### AI Engineering • Full Stack Development • Research Building Systems
 
----
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
-
----
 
 </div>
 
