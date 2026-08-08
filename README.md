@@ -3,15 +3,15 @@
 # Shrey Krishnatray
 
 ### AI Engineering • Full Stack Development • Research Building Systems
----
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
 </div>
 ---
 
 > I enjoy building things, but I’ve always been more interested in understanding what’s happening underneath them. I tend to get stuck on the “why” behind something long after the “how” is already clear, and I like breaking complicated ideas down until they stop feeling complicated. A lot of my learning happens this way...build something, run into something I don’t understand, dig deeper, and eventually have that little “oh, so that’s what’s going on” moment. Sometimes that means writing code, sometimes reading a paper, and sometimes rebuilding an idea just to see if I can make sense of it myself. I like taking things from 0 to 1, turning rough ideas into working systems, and learning from the parts that don’t work the first time. I’m still figuring out how far this curiosity will take me, but for now, I’m enjoying the process of building, breaking, understanding, and starting again.
   
 ---
-
+<div align="center">
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+</div>
 
 ---
 
@@ -132,19 +133,23 @@ I learn by building and by going deeper into the ideas behind the systems I use.
 ---
 ## 🔗 Connect & Coding Profiles
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/shreykrishnatray/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+
   <a href="https://codeforces.com/profile/shreykrishnatray">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+  </a>
+
   <a href="mailto:shreykrishnatray28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/shrey-krishnatray-3395ba273/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Shreykrishnatray&label=Views&style=flat-square&color=1F4E79" />
 </p>
