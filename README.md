@@ -4,9 +4,13 @@
 
 ### AI Engineering • Full Stack Development • Research Building Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
-</div>
 ---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
+
+---
+
+</div>
 
 > I enjoy building things, but I’ve always been more interested in understanding what’s happening underneath them. I tend to get stuck on the “why” behind something long after the “how” is already clear, and I like breaking complicated ideas down until they stop feeling complicated. A lot of my learning happens this way...build something, run into something I don’t understand, dig deeper, and eventually have that little “oh, so that’s what’s going on” moment. Sometimes that means writing code, sometimes reading a paper, and sometimes rebuilding an idea just to see if I can make sense of it myself. I like taking things from 0 to 1, turning rough ideas into working systems, and learning from the parts that don’t work the first time. I’m still figuring out how far this curiosity will take me, but for now, I’m enjoying the process of building, breaking, understanding, and starting again.
   
