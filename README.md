@@ -4,7 +4,7 @@
 
 ### AI Engineering • Full Stack Development • Research Building Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Building+from+First+Principles;Turning+Ideas+into+Working+Systems;Learning+by+Building+and+Breaking" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=7B8EC8&lines=Understanding+What+Happens+Under+the+Hood;Turning+Ideas+into+Working+Systems;Thinking+from+First+Principles" />
 
 </div>
 
@@ -54,7 +54,7 @@
 ---
 # 🚀 Featured Projects:
 
-### 🛡️ ZeroTrust AI
+### ╰─► [ZeroTrust AI](https://github.com/Shreykrishnatray/ZeroTrust-AI)
 
 > **AI-powered identity document verification platform** that combines OCR, image forensics, and deep learning to detect manipulated documents and produce an explainable fraud score.
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 🧠 SynapSense
+### ╰─► [SynapSense](https://github.com/Shreykrishnatray/SynapSense)
 
 > **AI-powered goal-to-action platform** that transforms ideas into actionable project plans through task decomposition, dependency mapping, and interactive visual timelines.
 
@@ -80,7 +80,7 @@
 
 ---
 
-### 🌍 Odyssey
+### ╰─► [Odyssey](https://github.com/Shreykrishnatray/orbit-odyssey)
 
 > **Modern travel discovery platform** focused on premium UI/UX, responsive design, destination exploration, and scalable frontend architecture.
 
@@ -93,7 +93,7 @@
 
 ---
 
-### 🤖 Fasal Maitri
+### ╰─► [Fasal Maitri](https://github.com/Shreykrishnatray/Fasal_Maitri)
 
 > **AI-powered conversational agriculture platform** that provides farming assistance over phone calls using speech recognition, LLM reasoning, and multilingual voice synthesis.
 
@@ -106,7 +106,7 @@
 
 ---
 
-### 💻 DSA Java
+### ╰─► [DSA Java](https://github.com/Shreykrishnatray/DSA-Java)
 
 > **Structured collection of Data Structures & Algorithms solutions** with clean Java implementations and topic-wise organization.
 
