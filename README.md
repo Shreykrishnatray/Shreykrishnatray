@@ -45,14 +45,12 @@
 [![Shrey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreykrishnatray&bg_color=0d1117&color=8b949e&line=6e7681&point=ffffff&area_color=21262d&area=true&hide_border=true)](https://github.com/Shreykrishnatray)
 
 ---
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shreykrishnatray/Shreykrishnatray/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
 </p>
 
 ---
-# 🚀 Featured Projects:
+# Featured Projects:
 
 ### ╰─► [ZeroTrust AI](https://github.com/Shreykrishnatray/ZeroTrust-AI)
 
@@ -119,7 +117,7 @@
 
 ---
 
-## 📚 Currently Learning & Building
+## 📚 Currently Learning & Building:
 
 I learn by building and by going deeper into the ideas behind the systems I use.
 
@@ -131,8 +129,6 @@ I learn by building and by going deeper into the ideas behind the systems I use.
 - Consistently solving DSA
 
 ---
-## 🔗 Connect & Coding Profiles
-
 <p align="center">
   <a href="https://leetcode.com/u/shreykrishnatray/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
