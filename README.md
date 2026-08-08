@@ -5,6 +5,7 @@
 ### AI & Full Stack Developer | Research Engineering Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Asking+%22Why%3F%22+Before+%22How%3F%22;Learning+by+Building+from+Scratch" />
+</div>
 
 ---
 
@@ -14,47 +15,58 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
+</td>
+</tr>
 
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
-</p>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</td>
+</tr>
 
-<p align="center">
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</td>
+</tr>
 
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
-</p>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</td>
+</tr>
 
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+<tr>
+<td><b>🤖 AI Engineering</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,huggingface,langchain" />
+<img src="https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge" />
+</td>
+</tr>
 
-<p align="center">
-  <b>AI Engineering</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge"/>
-</p>
+<tr>
+<td><b>☁️ Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
+</td>
+</tr>
 
-<p align="center">
-  <b>Cloud & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
-</p>
-
-<p align="center">
-  <b>Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
-</p>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+</td>
+</tr>
+</table>
 
 ---
 
