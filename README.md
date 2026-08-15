@@ -35,7 +35,7 @@
 
 <img height="150" src="https://shrey-github-stats.vercel.app/api?username=Shreykrishnatray&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=6e7681&border_color=21262d"/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=Shreykrishnatray&hide_border=true&background=0d1117&ring=6e7681&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="150" src="https://github-readme-streak-stats-eight.vercel.app?user=Shreykrishnatray&hide_border=true&background=0d1117&ring=6e7681&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <img height="150" src="https://shrey-github-stats.vercel.app/api/top-langs/?username=Shreykrishnatray&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=6e7681&border_color=21262d"/>
 
