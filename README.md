@@ -44,7 +44,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-xi-one.vercel.app/graph?username=Shreykrishnatray&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true" alt="Shrey's GitHub Activity Graph"/>
+  <a href="https://github.com/Shreykrishnatray">
+    <img width="900" src="https://github-readme-activity-graph-xi-one.vercel.app/graph?username=Shreykrishnatray&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&area_color=21262d&area=true&hide_border=true" />
+  </a>
 </p>
 
 ---
