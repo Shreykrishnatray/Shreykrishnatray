@@ -43,7 +43,9 @@
 
 ---
 
-[![Shrey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreykrishnatray&bg_color=0d1117&color=8b949e&line=6e7681&point=ffffff&area_color=21262d&area=true&hide_border=true)](https://github.com/Shreykrishnatray)
+<p align="center">
+  <img src="https://github-readme-activity-graph-xi-one.vercel.app/graph?username=Shreykrishnatray&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true" alt="Shrey's GitHub Activity Graph"/>
+</p>
 
 ---
 <p align="center">
